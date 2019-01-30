@@ -1,0 +1,72 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "Logo Al Agua Patos",
+        "slug": "abc",
+        "description": "Primer producto en modelo",
+        "price": "39.99",
+        "image": "products/418473523/418473523.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-11-17T17:12:04.808Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Super Computer",
+        "slug": "supercomputer",
+        "description": "Very expensive",
+        "price": "3999900.00",
+        "image": "",
+        "featured": true,
+        "active": true,
+        "timestamp": "2018-11-17T17:12:04.808Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "hat",
+        "slug": "hat",
+        "description": "Bacon ipsum dolor amet short loin rump doner shank spare ribs, flank pig hamburger. Spare ribs short ribs tongue burgdoggen pork kielbasa. Tri-tip spare ribs pork loin venison, sirloin turkey short ribs andouille rump salami brisket biltong prosciutto t-bone landjaeger. Ribeye ball tip biltong flank, fatback porchetta burgdoggen meatball filet mignon tail. Tri-tip hamburger salami pork chop pig. Sirloin shankle pig buffalo pork chop filet mignon.\r\n\r\nChuck cow short loin, turducken landjaeger pork alcatra pig. Kielbasa tongue pig, cupim jerky rump cow ham tail. Tri-tip sausage andouille ground round ham beef ribs beef meatball burgdoggen ribeye salami sirloin. Salami doner corned beef short ribs ribeye.\r\n\r\nPorchetta pork belly chuck, turkey ham fatback buffalo leberkas shankle ham hock andouille. Pork loin jerky cow ham hock, beef corned beef buffalo pig sirloin burgdoggen strip steak ham fatback meatball chuck. Swine ribeye venison, filet mignon flank shankle short loin cupim andouille fatback meatloaf jerky short ribs. Prosciutto rump doner tenderloin. Pork chop turkey picanha shank buffalo pork belly biltong beef ribs leberkas.\r\n\r\nPork belly pork pastrami doner, beef jerky bresaola pig shank pork chop chuck. Corned beef bresaola rump strip steak, filet mignon landjaeger hamburger capicola sirloin pastrami t-bone tail pancetta tongue. Turkey spare ribs kevin, boudin buffalo leberkas kielbasa meatball tongue pork tenderloin beef ribs pork belly hamburger ham hock. Frankfurter kevin pork, beef ribs brisket tri-tip pork belly. Bacon turkey ham hock chicken. Short ribs drumstick ball tip, rump swine capicola andouille.\r\n\r\nFlank ham beef ribs chicken. Pastrami beef ribs tenderloin, turducken cupim biltong spare ribs buffalo drumstick ham pork. Chuck ham hock ham t-bone. Jerky pastrami turkey short ribs fatback meatloaf.",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-11-17T17:12:04.808Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "T-Shirt",
+        "slug": "t-shirt",
+        "description": "black",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-11-17T17:12:04.808Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "T-Shirt",
+        "slug": "t-shirt-inzh",
+        "description": "black and red",
+        "price": "39.99",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-11-17T17:12:04.808Z"
+    }
+}
+]
